@@ -10,4 +10,7 @@ Technology used:
   * java
   * libgdx for game graphics and other logics.
   
-  
+Screenshots:
+![](JUMPY3.png)
+![](JUMPY1.png)
+![](JUMPY2.png)
